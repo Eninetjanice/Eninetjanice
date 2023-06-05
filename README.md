@@ -42,3 +42,16 @@ I'm a tech-savvy language & culture enthusiastic multilingual who derives joy in
 
 [![](https://visitcount.itsvg.in/api?id=Eninetjanice&icon=0&color=0)](https://visitcount.itsvg.in)
 
+### 📊 Stats
+
+![Eninetjanice's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eninetjanice&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Eninetjanice&theme=gruvbox&border_radius=4.5) -->
+
+#
+
+<details>
+
+ <summary><h3>👨‍💻 Eninetjanice's Coding Journey</h3></summary>
+
+   I started my coding journey when I got selected into the ALX Software Engineering program in 2022 and so far, the journey has been amazing. 
