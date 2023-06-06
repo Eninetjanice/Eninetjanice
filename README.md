@@ -42,11 +42,9 @@ I'm a tech-savvy language & culture enthusiastic multilingual who derives joy in
 
 [![](https://visitcount.itsvg.in/api?id=Eninetjanice&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 📊 Stats
+#
+![Snake animation](https://github.com/Eninetjanice/Eninetjanice/blob/output/github-contribution-grid-snake.svg)
 
-![Eninetjanice's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eninetjanice&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Eninetjanice&theme=gruvbox&border_radius=4.5) -->
 
 #
 
