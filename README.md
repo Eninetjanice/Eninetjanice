@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a tech-savvy language & culture enthusiastic multilingual who derives joy in leveraging technology for optimal results. I run an online institute for language acquisition (Eninet Language Hub) and specialise in foreign languages teaching (German & French), and have a keen interest in education technology, Natural Language Processing (NLP) and Afro-German literature. In my free time, I'm either travelling, creating videos & infographics, reading, chatting with friends, or coding.
+I'm a tech-savvy language & culture enthusiastic multilingual who derives joy in leveraging technology for optimal results. I run an online institute for language acquisition (Eninet Language Hub) and specialise in foreign languages teaching (German & French). I have a keen interest in education technology, Natural Language Processing (NLP) and Afro-German literature. In my free time, I'm either travelling, creating videos & infographics, reading, chatting with friends, or coding.
 
 - 🔭 I’m currently working on building competency in the preservation of endangered languages.
 - 🌱 Ex-Software Engineering Student at ALX | Holberton School
