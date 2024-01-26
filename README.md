@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I'm a tech-savvy language & culture enthusiastic multilingual who derives joy in leveraging technology for optimal results. I run an online institute for language acquisition (Eninet Language Hub) and specialise in foreign languages teaching (German & French), education technology & and have a keen interest in Natural Language Processing (NLP) as well as in African literature. In my free time, I'm either travelling, creating videos & infographics, reading, chatting with friends, or coding.
+I'm a tech-savvy language & culture enthusiastic multilingual who derives joy in leveraging technology for optimal results. I run an online institute for language acquisition (Eninet Language Hub) and specialise in foreign languages teaching (German & French), and have a keen interest in education technology, Natural Language Processing (NLP) and Afro-German literature. In my free time, I'm either travelling, creating videos & infographics, reading, chatting with friends, or coding.
 
 - 🔭 I’m currently working on building competency in the preservation of endangered languages.
-- 🌱 I’m also a Software Engineering Student at ALX | Holberton School
-- 👯 I’m looking to collaborate on NLP related projects.
+- 🌱 Ex-Software Engineering Student at ALX | Holberton School
+- 👯 I’m looking to collaborate on language and technology related projects.
 - 🤔 I’m on the outlook for help with enhancing my coding skills
-- 💬 Ask me about human languages...
+- 💬 Ask me about human languages... Igbo | English | French | German
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: 🫠
 
